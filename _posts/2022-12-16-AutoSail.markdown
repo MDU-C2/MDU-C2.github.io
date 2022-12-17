@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 1
+date: 2022-12-16
+img: autosail.gif
+alt: AutoSail
+project-date: June 2019, ongoing
+client: <a href="https://www.stint.se/en/">STINT</a> <a href="https://www.mdu.se/">MDU</a>  <a href="https://utp.ac.pa/">UTP</a> <a href="https://www.udea.edu.co/">UDeA</a>
+category: Control Engineering, Robotics sailing, Artificial Intelligence, Mechatronics
+repo: <a href="https://github.com/MDU-C2/AutoSail" target="_blank">AutoSail</a>
+poster: <a href="resources/posters/autosail2022.pdf" target="_blank">Fall 2022</a>
+video: <a href="https://play.mdu.se/playlist/dedicated/0_r7e36roh/" target="_blank">Playlist @ play.mdu.se</a>, <a href="https://play.mdu.se/media/t/0_3imudzex" target="_blank">2022 Panama bay test</a>
+description: This project is a collaboration between Mälardalen University (MDU), Universidad de Antioquia (UdeA) and Universidad Tecnológica de Panamá (UTP). MDU is creating a modular platform to enable transfer to a sailboat built by UTP. The platform created by MDU will also be able to integrate a Spiking Neural Network made by UdeA. Aiming to compete in the <a href="https://www.roboticsailing.org" target="_blank">World Robotic Sailing Championship</a>
+---

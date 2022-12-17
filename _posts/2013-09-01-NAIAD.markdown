@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 5
+date: 2013-09-01
+img: naiad.png
+alt: NAIAD
+project-date: September 2013, on hold
+client: <a href="https://www.mdu.se/">MDU</a>
+category: Underwater Robotics, Sensor Technology, Vision, Multi-agent, Communication
+repo: <a href="https://github.com/MDU-C2/SWARMs" target="_blank">SWARMs</a>, <a href="https://github.com/MDU-C2/TRIDENT-2021" target="_blank">TRIDENT<a> / / <a href="https://github.com/MDU-C2/TRIDENT-2021-SIM" target="_blank">TRIDENT-SIM</a>
+social: <a href="https://www.facebook.com/NaiadAUV/" target="_blank">Facebook</a>
+studentpapers: <a href="http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Amdh%3Adiva-5817" target="_blank">2009</a>, <a href="http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Amdh%3Adiva-13230" target="_blank">2011_1</a>, <a href="http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Amdh%3Adiva-12170" target="_blank">2011_2</a>, <a href="http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Amdh%3Adiva-28246" target="_blank">2015</a>, <a href="http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Amdh%3Adiva-32162" target="_blank">2016</a>, <a href="http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Amdh%3Adiva-36727" target="_blank">2017</a>
+description: An underwater autonomous robot for detecting toxic waste in the Baltic sea. Many iterations and scopes during the years.
+---

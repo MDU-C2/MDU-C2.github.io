@@ -1,0 +1,80 @@
+# Site settings
+title: Collaborative Center (C2)
+email: solar@mdu.se
+url: https://swepz.github.io/website/
+description: Collaborative Center for academical and industrial innovation
+keywords: C2, IFT, Collaborative, Center, MDU
+meta_author: Persson Emil
+
+# skills: "Web Developer - Graphic Artist - User Experience Designer"
+
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: epn03
+
+# Color settings (hex-codes without the leading hash-tag)
+
+# HFK01 Comments
+# Colors set to MDU graphical manual
+# Primary + Primary-rgd: MDU Orange
+# Secondary: MDU light orange
+# Secondary-dark: MDU dark green
+
+color:
+  primary: ff4800 #80B3FF
+  primary-rgb: "255,72,0" #"128,179,255"
+  secondary: 00352D #FCF4EB #FD6E8A
+  secondary-dark: ff4800 #A2122F
+
+# Footer settings
+footer:
+  # copyright: 
+  location: C2, Västerås
+  # social: 
+  # credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/malardalen_uni
+  - title: facebook
+    url: https://www.facebook.com/malardalensuniversitet
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+  - title: github
+    url: https://github.com/MDU-C2/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Hydrovägen 10, 721 36
+  - line:  Västerås, Sweden
+
+# Credits content
+# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""

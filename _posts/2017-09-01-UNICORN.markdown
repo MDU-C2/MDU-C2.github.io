@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 3
+date: 2017-09-01
+img: unicorn.png
+alt: UNICORN
+project-date: September 2017, on hold
+client: <a href="https://www.vinnova.se/">Vinnova</a> <a href="https://www.mdu.se/">MDU</a>  <a href="https://www.chalmers.se/">Chalmers University</a> <a href="https://www.husqvarna.se/">Husqvarna</a>
+category: Control Engineering, Refuse Handling, Mobile Robotics, Vision
+repo: <a href="https://github.com/MDU-C2/UNICORN" target="_blank">UNICORN</a>, <a href="https://github.com/MDU-C2/Butler" target="_blank">Butler</a>
+video: <a href="https://play.mdu.se/playlist/dedicated/0_4bruffsw/" target="_blank">Playlist @ play.mdu.se</a>
+studentpapers: <a href="http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Amdh%3Adiva-39940" target="_blank">2018</a>
+description: A refuse handling robot built on a Husqvarna 430X lawnmower platform. The purpose is to automate the refuse transport to a central location to positively impact the working environment for the worker and simplify the process for the customer.
+---

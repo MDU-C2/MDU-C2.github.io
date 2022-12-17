@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1360.73 851.6">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 496.54px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        font-family: AppleGothic, AppleGothic;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #ff4800;
+      }
+
+      .cls-2 {
+        fill: #fee9b3;
+        font-size: 224px;
+        stroke: #ff4800;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        font-size: 431.56px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-1" transform="translate(0 434.96) scale(1.04 1)"><tspan x="0" y="0">C</tspan></text>
+    <text class="cls-2" transform="translate(208.78 307.81)"><tspan x="0" y="0">ollaborative</tspan></text>
+    <text class="cls-2" transform="translate(433.21 570.05)"><tspan x="0" y="0">enter</tspan></text>
+    <text class="cls-3" transform="translate(241 669.04) scale(1.06 1)"><tspan x="0" y="0">C</tspan></text>
+  </g>
+</svg>
