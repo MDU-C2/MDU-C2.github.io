@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2022-12-16
-img: autosail.gif
+img: autosail.png
 alt: AutoSail
 project-date: June 2019, ongoing
 client: <a href="https://www.stint.se/en/">STINT</a> <a href="https://www.mdu.se/">MDU</a>  <a href="https://utp.ac.pa/">UTP</a> <a href="https://www.udea.edu.co/">UDeA</a>
