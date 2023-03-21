@@ -4,7 +4,7 @@ email: solar@mdu.se
 url: https://swepz.github.io/website/
 description: Collaborative Center for academical and industrial innovation
 keywords: C2, IFT, Collaborative, Center, MDU
-meta_author: Persson Emil
+meta_author: Persson Emil, Henrik Falk
 
 # skills: "Web Developer - Graphic Artist - User Experience Designer"
 
@@ -23,7 +23,7 @@ bing_verify:
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: epn03
+# disqus_shortname: epn03
 
 # Color settings (hex-codes without the leading hash-tag)
 
