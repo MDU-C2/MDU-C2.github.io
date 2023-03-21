@@ -7,7 +7,7 @@ alt: µ-tomography
 project-date: September 2022
 client: <a href="https://www.mdu.se/">MDU</a>
 category: MedTech, Sensor Technology, Robotics
-repo: Coming soon... 
+repo: <a href="https://github.com/MDU-C2/MicroTomography" target="_blank">Github</a> 
 poster: <a href="resources/posters/u-tomography2022.pdf" target="_blank">Fall 2022</a>
 video: <a href="https://play.mdu.se/media/t/0_rq80tlqh" target="_blank">Presentation Fall 2022</a>
 researcher: <a href="https://www.mdu.se/staff?id=npc01" target="_blank">Nikola Petrovic</a> - <a href="https://scholar.google.com/citations?hl=sv&user=n3AXqv0AAAAJ" target="_blank">Google Scholar</a>
